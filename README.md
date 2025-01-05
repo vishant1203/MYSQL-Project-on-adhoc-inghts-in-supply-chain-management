@@ -1,0 +1,1 @@
+# MYSQL-Project-on-adhoc-inghts-in-supply-chain-management
